@@ -39,7 +39,7 @@ define("REPO","autoPicCdn");//必须是上面用户名下的 公开仓库
 
 define("MAIL","engineerlzk@qq.com");//邮箱无所谓，随便写
 
-define("TOKEN","0dcab19162e0a317af286e5f30a50d2123fdeb44");
+define("TOKEN","123");
 // Github 去这个页面 https://github.com/settings/tokens生成一个有写权限的token（repo：Full control of private repositories 和write:packages前打勾）
 // gitee  去往这个页面 https://gitee.com/personal_access_tokens
 
